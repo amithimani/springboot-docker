@@ -54,10 +54,10 @@ springboot-docker/
 ├── src/
 │   └── main/
 │       └── java/
-│           └── com/
-│               └── example/
-│                   └── demo/
-│                       └── DemoApplication.java
+│           └── dev/
+│               └── knowledgecafe/
+│                   └── dockerpublish/
+│                       └── DockerpublishApplication.java
 ├── Dockerfile
 ├── .gitignore
 └── pom.xml
