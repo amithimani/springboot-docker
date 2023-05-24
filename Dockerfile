@@ -11,4 +11,4 @@ COPY src ./src
 
 RUN mvn clean install
 
-ENTRYPOINT ["java","-jar","/app.jar"]
+ENTRYPOINT ["java","-jar","/springboot-docker.jar"]
